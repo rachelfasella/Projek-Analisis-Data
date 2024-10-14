@@ -2,7 +2,7 @@
 
 ```
 mkdir submission
-cd submisson
+cd submission
 pipenv install
 pipenv shell
 pip install -r requirements.txt
